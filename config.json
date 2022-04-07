@@ -1,0 +1,28 @@
+{
+    "logs_location": "logs",
+    "java_path": {
+        "8": {
+            "linux": "",
+            "windows": "C:\\Users\\user\\Projects\\Programming\\OfflineMC\\OfflineMinecraft\\java\\windows\\graalvm-ce-java8-21.2.0\\bin\\javaw.exe",
+            "osx": ""
+        },
+        "16": {
+            "linux": "",
+            "windows": "C:\\Users\\user\\Projects\\Programming\\OfflineMC\\OfflineMinecraft\\java\\windows\\graalvm-ce-java16-21.2.0\\bin\\javaw.exe",
+            "osx": ""
+        },
+        "17": {
+            "linux": "",
+            "windows": "C:\\Users\\user\\Projects\\Programming\\OfflineMC\\OfflineMinecraft\\java\\windows\\java-runtime-beta\\bin\\javaw.exe",
+            "osx": ""
+        }
+    },
+    "data_location": "C:\\Users\\user\\PycharmProjects\\Mcdownloader_pycharm\\data",
+    "username": "herobrine",
+    "natives_extraction_location": "temp/natives",
+    "default_client_instance_location": "C:\\Users\\user\\Games\\Minecraft Launcher\\1.7.10",
+    "default_server_instance_location": "minecraft_server",
+    "user_java_args": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+    "user_properties": "{}",
+    "resolution": "800x600"
+}

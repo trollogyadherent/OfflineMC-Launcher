@@ -1,0 +1,28 @@
+{
+  "data_location": "data",
+  "logs_location": "logs",
+  "natives_extraction_location": "temp/natives",
+  "java_path": {
+    "8": {
+      "linux": "",
+      "windows": "",
+      "osx": ""
+    },
+    "16": {
+      "linux": "",
+      "windows": "",
+      "osx": ""
+    },
+    "17": {
+      "linux": "",
+      "windows": "",
+      "osx": ""
+    }
+  },
+  "username": "herobrine",
+  "default_client_instance_location": "minecraft_client",
+  "default_server_instance_location": "minecraft_server",
+  "user_java_args": "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+  "user_properties": "{}",
+  "resolution": "800x600"
+}
